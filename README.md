@@ -6,9 +6,11 @@ This repo contains the Notebooks I made and used when learning PyTorch for Deep 
 ## Requirement
 The dependencies are mentioned in the pytorch_course_env.yml file.
 
-Clone this repo using:
-`git clone 
+1. Clone this repo using:
+`https://github.com/IndraP24/PyTorch-Tutorial.git`
 
+2. Create a conda environment:
+`conda `
 ## Usage
 
 
