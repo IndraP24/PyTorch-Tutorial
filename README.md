@@ -10,7 +10,8 @@ The dependencies are mentioned in the pytorch_course_env.yml file.
 `https://github.com/IndraP24/PyTorch-Tutorial.git`
 
 2. Create a conda environment:
-`conda `
+`conda env update --prune -f pytorch_course_env.yml`
+
 ## Usage
 
 
